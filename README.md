@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Cenk Bülbül</h1>
 <h3 align="center">I'm a frontend developer.</h3>
 
+- 👨‍💻 Some of my projects are here. [https://cenkbulbul.vercel.app/](https://cenkbulbul.vercel.app/)
+
+- 📫 How to reach me **cenkbulbul67@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/cenk-bülbül-a73b4a231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cenk-bülbül-a73b4a231" height="30" width="40" /></a>
